@@ -1,8 +1,3 @@
-# Hi there 👋
-
-<!--
-**davidrull/davidrull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2>🧩 Me muevo entre dos mundos que se complementan:</h2>
 
 <p><b>Desarrollo de software multiplataforma</b>, donde doy vida a ideas a través del código</p>
